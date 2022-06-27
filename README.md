@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://user-images.githubusercontent.com/56448760/176051371-24cf5454-a553-41b6-9553-95746e073fe0.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,10 +33,6 @@ Bibliotecas
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollReveal](https://scrollrevealjs.org)
 
-Utilitários
-
-- [randomuser.me](https://randomuser.me/photos)
-- [IconMoon](https://icomoon.io/app/#/select)
 
 ## 💻 Projeto
 
